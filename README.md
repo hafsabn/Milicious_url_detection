@@ -1,8 +1,8 @@
-# 🛡️ Malicious URL Detection using ML and Deep Learning
+#  Malicious URL Detection using ML and Deep Learning
 
 This project focuses on detecting and classifying **malicious URLs** into multiple categories using both Machine Learning and Deep Learning techniques. It's a cybersecurity-focused project aiming to help systems identify threats based on URL patterns.
 
-## 📂 Dataset
+##  Dataset
 
 - **Source:** [Kaggle - Malicious URLs Dataset](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset)
 - **Classes:** The dataset includes **multiple URL types**, such as:
